@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Parcheggio Piazza Vittoria",
+        "address": "<a href=\"https://goo.gl/maps/ApiEGmifftD6RCnL9\">Piazza della Vittoria</a>",
+        "total_spaces": "520",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Ospedale Nord",
+        "address": "<a href=\"https://goo.gl/maps/5y6f8z4MJqb39xRg7\">Piazza San Padre Pio da Pietrelcina, 1</a>",
+        "total_spaces": "1260",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Ospedale Sud",
+        "address": "<a href=\"https://goo.gl/maps/yeE9rpffMeSFQsAK7\">Via Ducco, angolo via dal Monte 44</a>",
+        "total_spaces": "500",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "D'Azeglio",
+        "address": "<a href=\"https://goo.gl/maps/QZGwL6tC8qQEqVFx7\">Via Massimo D'Azeglio, 4a</a>",
+        "total_spaces": "35",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Fossa Bagni",
+        "address": "<a href=\"https://goo.gl/maps/DSJLhYeqiqaF4hzT7\">Piazza Fossa Bagni - Ingresso principale</a> | <a href=\"https://goo.gl/maps/yk1qhyXDuFmBb4KH6\">Piazza Fossa Bagni - Ingresso secondario</a>",
+        "total_spaces": "560",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Randaccio",
+        "address": "<a href=\"https://goo.gl/maps/sS5X1Achz9zV6GFB9\">Via Lupi di Toscana n 4</a>",
+        "total_spaces": "180",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Piazza Mercato",
+        "address": "<a href=\"https://goo.gl/maps/ssxLtQRdSZf9J5JU7\">Piazza del Mercato</a>",
+        "total_spaces": "190",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Freccia Rossa",
+        "address": "<a href=\"https://goo.gl/maps/RfG5RXt9qkE15Fxm7\">Viale Italia, 31</a>",
+        "total_spaces": "2500",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "San Domenico",
+        "address": "<a href=\"https://goo.gl/maps/BFfbkQyDHdsffv8x7\">Piazza San Domenico</a>",
+        "total_spaces": "72",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Benedetto Croce",
+        "address": "<a href=\"https://goo.gl/maps/7sNwGRDgKHE2Zg5V8\">Piazzetta Don L. Sturzo</a>",
+        "total_spaces": "72",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Stazione",
+        "address": "<a href=\"https://goo.gl/maps/XhuH6ZQk3nVB8UiB6\">V.le Stazione, 51</a>",
+        "total_spaces": "1000",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Palagiustizia",
+        "address": "<a href=\"https://goo.gl/maps/9agpaJGGYq1wgBZXA\">Via Gambara, 44</a>",
+        "total_spaces": "600",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Crystal",
+        "address": "<a href=\"https://goo.gl/maps/MC8ZrLt8nyvxZAig6\">Via Aldo Moro, 17</a>",
+        "total_spaces": "450",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Arnaldo Park",
+        "address": "<a href=\"https://goo.gl/maps/R7xXmCFB8Gr8J48j6\">Piazzale Arnaldo</a>",
+        "total_spaces": "300",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Casazza",
+        "address": "<a href=\"https://goo.gl/maps/5fbyVYWS6aExoeuj6\">Via Triumplina 181/02</a>",
+        "total_spaces": "160",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "S.Eufemia-Buffalora",
+        "address": "<a href=\"https://goo.gl/maps/HJ3EvwLy41LmofqE7\">Via Agostino Chiappa</a>",
+        "total_spaces": "398",
+        "parking_spaces": "0"
+    },
+    {
+        "name": "Autosilo 1",
+        "address": "<a href=\"https://goo.gl/maps/qPMkDPTBQ95FngQU7\">Via Vittorio Emanuele II, 3</a>",
+        "total_spaces": "336",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Prealpino",
+        "address": "<a href=\"https://goo.gl/maps/ffCpbwo2m1kh6Btt5\">Via Triumplina</a>",
+        "total_spaces": "410",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Poliambulanza",
+        "address": "<a href=\"https://goo.gl/maps/eEHAWfyChMupnZnY9\">Via Morelli</a>",
+        "total_spaces": "270",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Palaleonessa",
+        "address": "<a href=\"https://goo.gl/maps/R3tf3YM3AH9CNUVV7\">Via Caprera</a>",
+        "total_spaces": "1800",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Domus",
+        "address": "<a href=\"https://goo.gl/maps/2bE4ZjXRr5A81Qr59\">Via Lazzaretto</a>",
+        "total_spaces": "240",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Stadio",
+        "address": "<a href=\"https://goo.gl/maps/sSHrWBs2eFJQE2dY7\">Via dello Stadio</a>",
+        "total_spaces": "460",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Ospedale Nord (superficie)",
+        "address": "<a href=\"https://goo.gl/maps/aBTWUN6u6aS1ZyhGA\">Piazza San Padre Pio da Pietrelcina, 1</a>",
+        "total_spaces": "150",
+        "parking_spaces": "n.a."
+    },
+    {
+        "name": "Ospedale Poliambulanza",
+        "address": "<a href=\"https://goo.gl/maps/MpbPxFBvPqbKdzuX8\">Via Leonida Bissolati</a>",
+        "total_spaces": "440",
+        "parking_spaces": "n.a."
+    }
+]
